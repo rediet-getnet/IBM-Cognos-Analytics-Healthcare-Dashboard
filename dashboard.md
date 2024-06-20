@@ -11,14 +11,13 @@ Key Insights:
 Identify the age group with the highest number of patients.
 Detect age trends in hospital admissions.
 ![age](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/c82ec9cb-922c-4403-8e3d-88bc9b84bf8a)
+
 Gender Breakdown
-Description:
 
 This pie chart shows the proportion of male and female patients.
 It provides a quick overview of gender distribution in the dataset.
-Data Fields Used:
 
-Gender
+Data Fields Used:Gender
 
 Key Insights:
 
