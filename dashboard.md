@@ -77,6 +77,7 @@ Compare billing amounts between hospitals.
 ![hosb](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/97bb8bbb-c0c0-4dca-9c11-ea8fedd90bcd)
 
 Insurance provider Distribution 
+
 This pie chart shows the distribution of patients by insurance provider.
 It helps to understand which insurance companies are most commonly used.
 
