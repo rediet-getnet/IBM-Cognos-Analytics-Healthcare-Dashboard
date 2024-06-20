@@ -22,6 +22,9 @@ Gender
 Key Insights:
 
 Assess the gender balance among patients.
+![ger](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/6d2cb5fe-5cda-4fb1-afa3-0732ebd476c4)
+
+
 Medical Condition Frequency
 Description:
 
@@ -33,6 +36,9 @@ Medical Condition
 Key Insights:
 
 Highlight prevalent medical conditions.
+![med](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/86d186d8-199f-402e-8c31-f1ef4d784f12)
+
+
 Admissions Over Time
 Description:
 
@@ -45,6 +51,9 @@ Key Insights:
 
 Detect patterns in admission rates over months or years.
 Identify peak periods and potential causes.
+![ad](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/c45bfbc7-090a-4606-b937-a8eb15669fea)
+
+
 Hospital-Wise Billing Analysis
 Description:
 
@@ -57,6 +66,10 @@ Billing Amount
 Key Insights:
 
 Compare billing amounts between hospitals.
+
+![hosb](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/97bb8bbb-c0c0-4dca-9c11-ea8fedd90bcd)
+
+Insurance provider Distribution 
 This pie chart shows the distribution of patients by insurance provider.
 It helps to understand which insurance companies are most commonly used.
 Data Fields Used:
@@ -66,6 +79,9 @@ Key Insights:
 
 Identify the most common insurance providers.
 Understand insurance coverage trends among patients.
+
+![ins](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/3cde4c52-4934-41b1-9434-8a9989af01cc)
+
 Average Billing Amount by Medical Condition
 Description:
 
@@ -79,6 +95,7 @@ Key Insights:
 
 Highlight conditions with the highest or lowest average costs.
 Identify cost-effective treatment areas.
+![med](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/42440350-ad7d-457b-8a98-3afe0fb59810)
 
 Billing amount by date of admission colored by medication 
 
@@ -92,4 +109,7 @@ medication
 Key Insights:
 
 Detect patterns in admission rates over months or years.
+
+
 Identify peak periods and potential causes.
+![medica](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/e9e51b5b-dc5f-42a5-8266-6ad55404a198)
