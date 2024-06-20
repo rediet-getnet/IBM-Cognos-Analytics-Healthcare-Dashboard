@@ -1,4 +1,5 @@
 # IBM-Cognos-Analytics-Healthcare-Dashboard
+![age](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/186c7849-3d1c-4086-9390-e94837f7cb53)
 ---
 
 # README
