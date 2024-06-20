@@ -1,11 +1,11 @@
 Age Distribution of Patients
-Description:
+
 
 This Chart displays the distribution of patient ages.
 It helps in understanding the age demographics of the patients.
-Data Fields Used:
 
-Age
+Data Fields Used:Age
+
 Key Insights:
 
 Identify the age group with the highest number of patients.
@@ -40,7 +40,8 @@ Key Insights:
 
 Highlight prevalent medical conditions.
 
-![med](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/86d186d8-199f-402e-8c31-f1ef4d784f12)
+
+![fr](https://github.com/rediet-getnet/IBM-Cognos-Analytics-Healthcare-Dashboard/assets/101559767/38d6a924-c404-4423-b820-27a0f25cb12b)
 
 
 Admissions Over Time
